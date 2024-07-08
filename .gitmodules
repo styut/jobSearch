@@ -1,3 +1,6 @@
 [submodule "jobSearch_front"]
 	path = jobSearch_front
 	url = https://github.com/styut/searchJob-client.git
+[submodule "jobSearchServer"]
+	path = jobSearchServer
+	url = https://github.com/styut/jobSearchServer
